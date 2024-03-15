@@ -1,4 +1,4 @@
-박무열 202101350 컴퓨터공학부
+Park Muyeol 202101350 Computer Engineering
 
 # 제목
 ## 제목
