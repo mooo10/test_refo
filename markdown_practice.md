@@ -1,7 +1,5 @@
 Park Muyeol 202101350 Computer Engineering
 
-박무열 202101350 한국외대 컴퓨터공학부
-
 # 제목
 ## 제목
 ### 제목
