@@ -35,7 +35,7 @@ int main() {
     for(int i = 0; i < NGF.size(); i++) {
         cout << NGF[i];
         if(i != NGF.size() - 1) {
-            cout << " ";
+            cout << "\n";
         }
     }   
     return 0;
